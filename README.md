@@ -3,13 +3,13 @@
 
 # Bienvenue sur mon profil 👋
 
-📫 Contactez-moi sur **alexis.nguemby-mbina@laplateforme.io**
+📫 Contactez-moi sur **ZakariMaanane@laplateforme.io**
 
 
 ## Me retrouver
 
 [![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/AlexisNguemby)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/alexis-nguemby-mbina-93691433b/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/zakaria-maanane-93691433b/)
 
 ## Languages et outils
 

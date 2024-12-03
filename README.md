@@ -7,11 +7,6 @@
 
 
 ## Me retrouver
-## Matrix Animation
-
-Une animation inspirée du thème Matrix avec des chiffres qui tombent. Cliquez sur l'image ci-dessous pour voir la démo en direct !
-
-[![Matrix Animation](https://img.shields.io/badge/Matrix-Animation-green)](https://<ton_nom_d_utilisateur>.github.io/<MaananeZakaria>/)
 
 [![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/MaananeZakaria)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/zakaria-maanane-93691433b/)
@@ -31,3 +26,10 @@ Une animation inspirée du thème Matrix avec des chiffres qui tombent. Cliquez 
 ## En apprentissage / perfectionnement
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## Matrix Animation
+
+Une animation inspirée du thème Matrix avec des chiffres qui tombent. Cliquez sur l'image ci-dessous pour voir la démo en direct !
+
+[![Matrix Animation](https://img.shields.io/badge/Matrix-Animation-green)](https://<ton_nom_d_utilisateur>.github.io/<MaananeZakaria>/)
+

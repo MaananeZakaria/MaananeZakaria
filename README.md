@@ -3,7 +3,7 @@
 
 # Bienvenue sur mon profil 
 
-📫 Contactez-moi sur **ZakariMaanane@laplateforme.io**
+📫 Contactez-moi sur **ZakariaMaanane@laplateforme.io**
 
 
 ## Me retrouver

@@ -13,6 +13,7 @@
 
 ## Languages et outils
 
+[![PYTHON](https://img.shields.io/badge/-PYTHON-000?&logo=PYTHON&logoColor=777BB4)](https://www.python.com)
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
 [![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass&logoColor=CC6699)](https://sass-lang.com)

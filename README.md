@@ -32,5 +32,5 @@
 
 Une animation inspirée du thème Matrix avec des chiffres qui tombent. Cliquez sur l'image ci-dessous pour voir la démo en direct !
 
-[![Matrix Animation](https://img.shields.io/badge/Matrix-Animation-green)](https://<ton_nom_d_utilisateur>.github.io/<MaananeZakaria>/)
+[![Matrix Animation](https://img.shields.io/badge/Matrix-Animation-green)](https://<MaananeZakaria>.github.io/<MaananeZakaria>/)
 

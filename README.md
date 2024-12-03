@@ -7,7 +7,7 @@
 
 
 ## Me retrouver
-# Matrix Animation
+## Matrix Animation
 
 Une animation inspirée du thème Matrix avec des chiffres qui tombent. Cliquez sur l'image ci-dessous pour voir la démo en direct !
 
